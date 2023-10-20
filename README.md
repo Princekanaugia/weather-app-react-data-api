@@ -1,10 +1,16 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+# weather app react using api
+ Weather App which usage API Call for data from open weather website.
+ 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+
+Install all dependency from the node module that is required for the App to work.
+
+Note :- use `npm install --save-dev @babel/plugin-proposal-private-property-in-object` to resolve @babel devdependency issue 
+during development mode run.
 
 ### `npm start`
 
